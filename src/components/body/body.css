@@ -1,0 +1,13 @@
+.img-movie{
+    height: 700px;
+}
+
+.img-movie img {
+    opacity: 0.1;
+    object-fit: cover;
+}
+
+.carousel {
+    position: absolute;
+    top: 0;
+}
